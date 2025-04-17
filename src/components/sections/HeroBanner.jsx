@@ -11,7 +11,7 @@ export default function HeroBanner() {
               Plataforma de Gestión Odontológica
             </h1>
             <p className="text-lg mb-6">
-              Proyecto en desarrollo conjunto con el Centro Odontológico del Sindicato N°1 de Trabajadores de Codelco. Este sistema busca resolver necesidades reales de verificación de socios, atención clínica y gestión administrativa.
+              Proyecto en desarrollo conjunto con el Centro Odontológico del Sindicato N°1 de Trabajadores de Codelco. Este sistema busca resolver necesidades reales de verificación de socios dentro del centro odontológico.
             </p>
             <p className="text-sm text-blue-200 mb-8">
               Actualmente en fase de planificación. La aplicación aún no se encuentra disponible para su uso.
