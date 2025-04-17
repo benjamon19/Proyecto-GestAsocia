@@ -26,7 +26,6 @@ export default function NavigationBar({ activeTab, setActiveTab }) {
               <img
                 src="/public/logo.png"
                 alt="Logo GestAsocia"
-                className="object-contain w-full h-full rounded-full"
               />
             </div>
           </div>
