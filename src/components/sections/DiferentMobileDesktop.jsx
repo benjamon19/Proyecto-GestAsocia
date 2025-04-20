@@ -1,4 +1,4 @@
-import { Smartphone, Monitor, Lock, Fingerprint, Barcode, Users, Cloud, FileText, Settings } from "lucide-react";
+import { Smartphone, Monitor, Lock } from "lucide-react";
 
 export default function DiferentMobileDesktop() {
   return (
@@ -60,7 +60,7 @@ function DeviceCard({ title, icon, features }) {
         {icon}
         <h3 className="text-xl font-semibold text-gray-800">{title}</h3>
       </div>
-      <ul className="list-inside space-y-2 text-gray-600">
+      <ul className="list-none list-inside space-y-2 text-gray-600">
         {features.map((feature, i) => (
           <li key={i}>{feature}</li>
         ))}
